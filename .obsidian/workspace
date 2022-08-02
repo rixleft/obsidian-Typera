@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "d1d99fec84c7ef4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb8efdf650c606b6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Teaching Notes/ES5 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "502df87395e5239e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b548ebd5705dfb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c49ac92893bab88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e66d6c3b17bc041",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "reduce",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "282f178c97281895",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27168959daa8f766",
+    "type": "split",
+    "children": [
+      {
+        "id": "a07bc2677917ff03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ecf59f52160ad34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Teaching Notes/ES5 1.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80310bf3b68c5914",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Teaching Notes/ES5 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f2eba507e96dccf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ed13f9c7e82f69e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Teaching Notes/ES5 1.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb8efdf650c606b6",
+  "lastOpenFiles": [
+    "Teaching Notes/25.第二十六天（js）.md",
+    "Teaching Notes/ES5 4.md",
+    "Teaching Notes/23.第二十四天（js）.md",
+    "Teaching Notes/ES5 1.md",
+    "Teaching Notes/ES5 3.md",
+    "Teaching Notes/ES5 2.md",
+    "Teaching Notes/27.第二十八天（js）.md",
+    "Teaching Notes/28.第二十九天（js）.md",
+    "Teaching Notes/22.第二十三天（js）.md",
+    "Teaching Notes/21.第二十二天（js）.md"
+  ]
+}
