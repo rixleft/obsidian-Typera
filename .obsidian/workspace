@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "push",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb8efdf650c606b6",
+  "active": "9c49ac92893bab88",
   "lastOpenFiles": [
     "Teaching Notes/27.第二十八天（js）.md",
     "Teaching Notes/26.第二十七天（js）.md",
