@@ -516,6 +516,9 @@ NoSql数据库
 
  它的结构组成：应用程序 => 数据库 => 集合 => 文档。
 
+mysql> alter user 'root'@'localhost' identified with mysql_native_password by 'admin123';
+mysql> flush privileges;
+
  SQL与NOSQL的最大区别在于NoSQL的集合中的文档，它的结构可以不固定。
 
 ### 4.2 安装 mongodb
