@@ -57,13 +57,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "27168959daa8f766",
@@ -131,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e66d6c3b17bc041",
+  "active": "9c49ac92893bab88",
   "lastOpenFiles": [
     "Teaching Notes/ES5 3.md",
     "Teaching Notes/30.第三十一天（js）.md",
