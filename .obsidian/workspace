@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teaching Notes/工程化1.md",
+            "file": "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teaching Notes/工程化1.md",
+                "file": "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teaching Notes/工程化1.md",
+                "file": "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teaching Notes/工程化1.md"
+                "file": "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md"
               }
             }
           }
@@ -131,15 +132,15 @@
   },
   "active": "cb8efdf650c606b6",
   "lastOpenFiles": [
-    "Teaching Notes/工程化2.md",
-    "Teaching Notes/工程化1.md",
-    "Teaching Notes/设计模式1.md",
-    "Teaching Notes/4.第五天.md",
-    "Teaching Notes/nodeJS4.md",
-    "README.md",
-    "Web Front End/html catalogue/浏览器内核和前缀.md",
-    "Teaching Notes/32.第三十三天（js进阶）.md",
-    "Teaching Notes/Ajax 3.md",
-    "Teaching Notes/30.第三十一天（js）.md"
+    "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md",
+    "images/lesson.png.md",
+    "images/组件.png.md",
+    "Web Front End/Javascript catalogue/Unicode(万国码).md",
+    "Web Front End/html catalogue/table.md",
+    "Web Front End/html catalogue/list.md",
+    "Web Front End/html catalogue/修饰类标签.md",
+    "Web Front End/html catalogue/form.md",
+    "Web Front End/html catalogue/行内元素.md",
+    "Web Front End/html catalogue/超链接.md"
   ]
 }
