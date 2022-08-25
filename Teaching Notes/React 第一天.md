@@ -401,13 +401,13 @@ render(createElement(Demo), document.getElementById('app'));
 
 react团队为了让我们创建虚拟DOM更方便，提供了jsx语法：像创建XHTML元素一样，创建虚拟DOM。
 
-​	 在xhtml中创建div：  <div></div>
+​	 在xhtml中创建div：  \<div>\</div>
 
-​	 在jsx语法中创建div： <div></div>
+​	 在jsx语法中创建div： \<div>\</div>
 
-​	 在xhtml中创建input： <input type="text" />
+​	 在xhtml中创建input： \<input type="text" />
 
-​	 在JSX语法中创建input：  <input type="text" />
+​	 在JSX语法中创建input：  \<input type="text" />
 
 JSX语法已经被纳入ES2017规范了。
 

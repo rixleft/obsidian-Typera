@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md",
+            "file": "Other notes/react基础Day02-受控组件&评论案例&props&context.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md",
+                "file": "Other notes/react基础Day02-受控组件&评论案例&props&context.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md",
+                "file": "Other notes/react基础Day02-受控组件&评论案例&props&context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md"
+                "file": "Other notes/react基础Day02-受控组件&评论案例&props&context.md"
               }
             }
           }
@@ -133,14 +133,14 @@
   "active": "cb8efdf650c606b6",
   "lastOpenFiles": [
     "Teaching Notes/React 第一天.md",
-    "Teaching Notes/28.第二十九天（js）.md",
+    "Teaching Notes/React 第二天.md",
+    "Teaching Notes/nodeJS1.md",
+    "Teaching Notes/29.第三十天（js）.md",
     "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md",
+    "Teaching Notes/28.第二十九天（js）.md",
     "Other notes/photo/Pasted image 20220824154208.png",
     "images/lesson.png.md",
     "images/组件.png.md",
-    "Web Front End/Javascript catalogue/Unicode(万国码).md",
-    "Web Front End/html catalogue/table.md",
-    "Web Front End/html catalogue/list.md",
-    "Web Front End/html catalogue/修饰类标签.md"
+    "Web Front End/Javascript catalogue/Unicode(万国码).md"
   ]
 }
