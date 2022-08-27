@@ -7,9 +7,9 @@
         "id": "cb8efdf650c606b6",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "pdf",
           "state": {
-            "file": "Other notes/images/新版生命周期函数.png"
+            "file": "PDF/01_React 基础.pdf"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other notes/images/新版生命周期函数.png",
+                "file": "PDF/01_React 基础.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other notes/images/新版生命周期函数.png",
+                "file": "PDF/01_React 基础.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other notes/images/新版生命周期函数.png"
+                "file": "PDF/01_React 基础.pdf"
               }
             }
           }
@@ -127,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c49ac92893bab88",
+  "active": "cb8efdf650c606b6",
   "lastOpenFiles": [
+    "PDF/03_React 组件基础.pdf",
+    "PDF/02_JSX.pdf",
+    "PDF/01_React 基础.pdf",
+    "Teaching Notes/React 第一天.md",
+    "Other notes/images/新版生命周期函数.png",
     "Other notes/react基础Day03-生命周期&render props模式&高阶组件&原理揭秘.md",
     "Other notes/react基础Day02-受控组件&评论案例&props&context.md",
     "Teaching Notes/React 第三天.md",
     "Teaching Notes/React 第二天.md",
-    "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md",
-    "Teaching Notes/ES5 7.md",
-    "Teaching Notes/React 第一天.md",
-    "Teaching Notes/nodeJS1.md",
-    "Teaching Notes/29.第三十天（js）.md",
-    "Teaching Notes/28.第二十九天（js）.md"
+    "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md"
   ]
 }
