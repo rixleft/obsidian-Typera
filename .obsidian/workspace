@@ -7,9 +7,12 @@
         "id": "cb8efdf650c606b6",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "PDF/01_React 基础.pdf"
+            "file": "Teaching Notes/React 第三天.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -59,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "27168959daa8f766",
@@ -75,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDF/01_React 基础.pdf",
+                "file": "Teaching Notes/React 第三天.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDF/01_React 基础.pdf",
+                "file": "Teaching Notes/React 第三天.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDF/01_React 基础.pdf"
+                "file": "Teaching Notes/React 第三天.md"
               }
             }
           }
@@ -129,15 +133,15 @@
   },
   "active": "cb8efdf650c606b6",
   "lastOpenFiles": [
-    "PDF/03_React 组件基础.pdf",
-    "PDF/02_JSX.pdf",
-    "PDF/01_React 基础.pdf",
-    "Teaching Notes/React 第一天.md",
-    "Other notes/images/新版生命周期函数.png",
-    "Other notes/react基础Day03-生命周期&render props模式&高阶组件&原理揭秘.md",
-    "Other notes/react基础Day02-受控组件&评论案例&props&context.md",
-    "Teaching Notes/React 第三天.md",
-    "Teaching Notes/React 第二天.md",
-    "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md"
+    "Teaching Notes/nodeJS3.md",
+    "Teaching Notes/nodeJS4.md",
+    "Teaching Notes/React 第四天.md",
+    "Practice/练习1/react基础Day01-作业.md",
+    "Practice/练习4/react基础Day04-作业.md",
+    "Practice/练习3/react基础Day03-作业.md",
+    "Practice/练习2/react基础Day02-作业.md",
+    "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md",
+    "Other notes/react好租客项目Day01-项目演示&项目搭建&antd-mobile的TabBar使用.md",
+    "Teaching Notes/React 第三天.md"
   ]
 }

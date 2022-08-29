@@ -344,7 +344,7 @@ render(
 
 ​	   不要在该方法中，尝试修改数据（如状态数据）。虚拟DOM是在返回值中创建的，因此在render方法中，无法获取虚拟DOM对应的真实DOM。
 
- （ 5 ）组件构建完毕：compomentDidMount
+ （ 5 ）组件构建完毕：componentDidMount
 
 ​		此时组件就创建出来了，已经有了属性数据，状态数据，上下文数据以及虚拟DOM。
 
