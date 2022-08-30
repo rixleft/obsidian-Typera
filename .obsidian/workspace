@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teaching Notes/React 第三天.md",
+            "file": "Teaching Notes/React 第四天.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "27168959daa8f766",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teaching Notes/React 第三天.md",
+                "file": "Teaching Notes/React 第四天.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teaching Notes/React 第三天.md",
+                "file": "Teaching Notes/React 第四天.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teaching Notes/React 第三天.md"
+                "file": "Teaching Notes/React 第四天.md"
               }
             }
           }
@@ -133,6 +132,8 @@
   },
   "active": "cb8efdf650c606b6",
   "lastOpenFiles": [
+    "Teaching Notes/React 第五天.md",
+    "Teaching Notes/React 第三天.md",
     "Teaching Notes/nodeJS3.md",
     "Teaching Notes/nodeJS4.md",
     "Teaching Notes/React 第四天.md",
@@ -140,8 +141,6 @@
     "Practice/练习4/react基础Day04-作业.md",
     "Practice/练习3/react基础Day03-作业.md",
     "Practice/练习2/react基础Day02-作业.md",
-    "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md",
-    "Other notes/react好租客项目Day01-项目演示&项目搭建&antd-mobile的TabBar使用.md",
-    "Teaching Notes/React 第三天.md"
+    "Other notes/react基础Day01-React概述&脚手架搭建&JSX&组件.md"
   ]
 }
