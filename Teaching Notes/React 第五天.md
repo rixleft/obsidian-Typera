@@ -993,7 +993,7 @@ render(<App></App>, app);
 
 默认值
 
-​		 为value属性和checked是属性绑定组件的状态数据。
+​		 为value属性和checked属性绑定组件的状态数据。
 
 ​		 在onChange方法中，监听数据的改变，并更新状态
 
