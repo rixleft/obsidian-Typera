@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teaching Notes/React 第六天.md",
+            "file": "Other notes/react基础Day03-生命周期&render props模式&高阶组件&原理揭秘.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ref",
+                "query": "getSnapshotBeforeUpdate",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teaching Notes/React 第六天.md",
+                "file": "Other notes/react基础Day03-生命周期&render props模式&高阶组件&原理揭秘.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teaching Notes/React 第六天.md",
+                "file": "Other notes/react基础Day03-生命周期&render props模式&高阶组件&原理揭秘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teaching Notes/React 第六天.md"
+                "file": "Other notes/react基础Day03-生命周期&render props模式&高阶组件&原理揭秘.md"
               }
             }
           }
@@ -134,14 +134,14 @@
   "active": "9e66d6c3b17bc041",
   "lastOpenFiles": [
     "Teaching Notes/React 第五天.md",
+    "Web Front End/Javascript catalogue/Js循环.md",
+    "Web Front End/Javascript catalogue/Js数据类型.md",
+    "Teaching Notes/ES5 3.md",
+    "Teaching Notes/24.第二十五天（js）.md",
     "Teaching Notes/React 第六天.md",
     "Teaching Notes/2.第三天.md",
     "Teaching Notes/React 第三天.md",
     "Teaching Notes/React 第二天.md",
-    "Teaching Notes/28.第二十九天（js）.md",
-    "Teaching Notes/react学习代码.md",
-    "Teaching Notes/nodeJS3.md",
-    "Teaching Notes/React 第四天.md",
-    "Teaching Notes/nodeJS4.md"
+    "Teaching Notes/28.第二十九天（js）.md"
   ]
 }
