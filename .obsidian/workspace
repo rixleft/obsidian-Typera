@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other notes/react基础Day03-生命周期&render props模式&高阶组件&原理揭秘.md",
+            "file": "Teaching Notes/React 第七天.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "getSnapshotBeforeUpdate",
+                "query": "reflux",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other notes/react基础Day03-生命周期&render props模式&高阶组件&原理揭秘.md",
+                "file": "Teaching Notes/React 第七天.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other notes/react基础Day03-生命周期&render props模式&高阶组件&原理揭秘.md",
+                "file": "Teaching Notes/React 第七天.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other notes/react基础Day03-生命周期&render props模式&高阶组件&原理揭秘.md"
+                "file": "Teaching Notes/React 第七天.md"
               }
             }
           }
@@ -131,8 +130,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e66d6c3b17bc041",
+  "active": "9c49ac92893bab88",
   "lastOpenFiles": [
+    "Other notes/react基础Day03-生命周期&render props模式&高阶组件&原理揭秘.md",
     "Teaching Notes/React 第五天.md",
     "Web Front End/Javascript catalogue/Js循环.md",
     "Web Front End/Javascript catalogue/Js数据类型.md",
@@ -141,7 +141,6 @@
     "Teaching Notes/React 第六天.md",
     "Teaching Notes/2.第三天.md",
     "Teaching Notes/React 第三天.md",
-    "Teaching Notes/React 第二天.md",
-    "Teaching Notes/28.第二十九天（js）.md"
+    "Teaching Notes/React 第二天.md"
   ]
 }
