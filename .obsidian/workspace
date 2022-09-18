@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teaching Notes/React 第八天.md",
+            "file": "Vue/day3.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teaching Notes/React 第八天.md",
+                "file": "Vue/day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teaching Notes/React 第八天.md",
+                "file": "Vue/day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teaching Notes/React 第八天.md"
+                "file": "Vue/day3.md"
               }
             }
           }
@@ -131,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e66d6c3b17bc041",
+  "active": "cb8efdf650c606b6",
   "lastOpenFiles": [
-    "Teaching Notes/ES5 3.md",
-    "Teaching Notes/26.第二十七天（js）.md",
-    "Teaching Notes/微信小程序1.md",
-    "Teaching Notes/nodeJS3.md",
-    "Teaching Notes/33.第三十四天（js进阶）.md",
-    "Teaching Notes/React 第六天.md",
-    "Teaching Notes/React 第七天.md",
+    "Vue/day1.md",
+    "Vue/day3.md",
+    "PDF/02_JSX.pdf",
+    "PDF/03_React 组件基础.pdf",
+    "Practice/练习1/react基础Day01-作业.md",
+    "PDF/01_React 基础.pdf",
+    "PDF/01_好客租房移动 Web（上）.pdf",
+    "Teaching Notes/32.第三十三天（js进阶）.md",
     "Teaching Notes/React 第八天.md",
-    "Other notes/react基础Day03-生命周期&render props模式&高阶组件&原理揭秘.md",
-    "Teaching Notes/React 第五天.md"
+    "Teaching Notes/ES5 3.md"
   ]
 }
