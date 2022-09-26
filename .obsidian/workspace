@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teaching Notes/ES5 6.md",
+            "file": "Teaching Notes/Vue04.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teaching Notes/ES5 6.md",
+                "file": "Teaching Notes/Vue04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teaching Notes/ES5 6.md",
+                "file": "Teaching Notes/Vue04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teaching Notes/ES5 6.md"
+                "file": "Teaching Notes/Vue04.md"
               }
             }
           }
@@ -130,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c49ac92893bab88",
+  "active": "cb8efdf650c606b6",
   "lastOpenFiles": [
+    "Teaching Notes/Vue05.md",
+    "Teaching Notes/Vue06.md",
+    "Teaching Notes/ES5 6.md",
     "Teaching Notes/Vue01.md",
     "Teaching Notes/Vue03.md",
     "Teaching Notes/Vue02.md",
     "webpack中resolve.alias的使用.md",
     "README.md",
     "Teaching Notes/ES5 5.md",
-    "Vue/day3.md",
-    "Vue/day1.md",
-    "PDF/02_JSX.pdf",
-    "PDF/03_React 组件基础.pdf"
+    "Vue/day3.md"
   ]
 }
