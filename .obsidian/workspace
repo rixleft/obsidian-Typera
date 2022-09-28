@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teaching Notes/React 第六天.md",
+            "file": "Teaching Notes/Vue06.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "app.engine",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teaching Notes/React 第六天.md",
+                "file": "Teaching Notes/Vue06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teaching Notes/React 第六天.md",
+                "file": "Teaching Notes/Vue06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teaching Notes/React 第六天.md"
+                "file": "Teaching Notes/Vue06.md"
               }
             }
           }
@@ -133,15 +132,15 @@
   },
   "active": "cb8efdf650c606b6",
   "lastOpenFiles": [
-    "Teaching Notes/nodeJS3.md",
-    "Teaching Notes/Vue04.md",
-    "Teaching Notes/Vue05.md",
+    "Teaching Notes/Vue08.md",
     "Teaching Notes/Vue06.md",
-    "Teaching Notes/ES5 6.md",
-    "Teaching Notes/Vue01.md",
-    "Teaching Notes/Vue03.md",
-    "Teaching Notes/Vue02.md",
-    "webpack中resolve.alias的使用.md",
-    "README.md"
+    "Teaching Notes/Vue07.md",
+    "Vue/课件/06_购物车案例.pdf",
+    "Vue/课件/08_路由案例.pdf",
+    "Vue/课件/09_用户列表案例.pdf",
+    "Vue/课件/09_VUE基础 - 综合案例.pdf",
+    "Vue/day3.md",
+    "Vue/day1.md",
+    "Vue/Vuex/vuex使用.md"
   ]
 }
