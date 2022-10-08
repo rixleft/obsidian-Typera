@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teaching Notes/ES5 8.md",
+            "file": "Teaching Notes/Vue05.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "globalThis",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teaching Notes/ES5 8.md",
+                "file": "Teaching Notes/Vue05.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teaching Notes/ES5 8.md",
+                "file": "Teaching Notes/Vue05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teaching Notes/ES5 8.md"
+                "file": "Teaching Notes/Vue05.md"
               }
             }
           }
@@ -130,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c49ac92893bab88",
+  "active": "cb8efdf650c606b6",
   "lastOpenFiles": [
+    "Teaching Notes/React 第八天.md",
+    "Teaching Notes/Vue10.md",
+    "Teaching Notes/Vue11.md",
+    "Teaching Notes/Vue07.md",
+    "Teaching Notes/Vue08.md",
+    "Teaching Notes/nodeJS1.md",
+    "Teaching Notes/ES5 8.md",
     "Teaching Notes/ES5 7.md",
     "Vue/课件/09_用户列表案例.pdf",
-    "Vue/课件/09_VUE基础 - 综合案例.pdf",
-    "Vue/课件/07_组件高级 - 下.pdf",
-    "Vue/课件/08_路由案例.pdf",
-    "Vue/课件/08_路由.pdf",
-    "Vue/课件/06_组件高级 - 上.pdf",
-    "Teaching Notes/Vue08.md",
-    "Vue/课件/05_动态组件&插槽&自定义指令.pdf",
-    "Teaching Notes/Vue07.md"
+    "Vue/课件/09_VUE基础 - 综合案例.pdf"
   ]
 }
