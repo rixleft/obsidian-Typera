@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "navigate",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,17 +131,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb8efdf650c606b6",
+  "active": "9e66d6c3b17bc041",
   "lastOpenFiles": [
+    "Teaching Notes/Vue13.md",
+    "Teaching Notes/Vue11.md",
+    "Teaching Notes/微信小程序2.md",
+    "Vue/vuex.md",
+    "Teaching Notes/Vue04.md",
     "Teaching Notes/Vue08.md",
     "Teaching Notes/Vue09.md",
     "Teaching Notes/Vue10.md",
     "Teaching Notes/Vue05.md",
-    "Teaching Notes/React 第八天.md",
-    "Teaching Notes/Vue07.md",
-    "Teaching Notes/nodeJS1.md",
-    "Teaching Notes/ES5 8.md",
-    "Teaching Notes/ES5 7.md",
-    "Vue/课件/09_用户列表案例.pdf"
+    "Teaching Notes/React 第八天.md"
   ]
 }
