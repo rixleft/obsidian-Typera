@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teaching Notes/Vue11.md",
+            "file": "Vue/compositionapi.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "navigate",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teaching Notes/Vue11.md",
+                "file": "Vue/compositionapi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teaching Notes/Vue11.md",
+                "file": "Vue/compositionapi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teaching Notes/Vue11.md"
+                "file": "Vue/compositionapi.md"
               }
             }
           }
@@ -131,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e66d6c3b17bc041",
+  "active": "cb8efdf650c606b6",
   "lastOpenFiles": [
-    "Teaching Notes/Vue13.md",
+    "Vue/vue3.md",
+    "Vue/compositionapi.md",
+    "Vue/Vuex/vuex使用.md",
+    "Vue/day1.md",
+    "Vue/day3.md",
+    "Vue/课件/尚硅谷_前端技术_Vue全家桶.pdf",
+    "webpack中resolve.alias的使用.md",
+    "README.md",
     "Teaching Notes/Vue11.md",
-    "Teaching Notes/微信小程序2.md",
-    "Vue/vuex.md",
-    "Teaching Notes/Vue04.md",
-    "Teaching Notes/Vue08.md",
-    "Teaching Notes/Vue09.md",
-    "Teaching Notes/Vue10.md",
-    "Teaching Notes/Vue05.md",
-    "Teaching Notes/React 第八天.md"
+    "Vue/课件/09_用户列表案例.pdf"
   ]
 }

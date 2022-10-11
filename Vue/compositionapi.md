@@ -107,8 +107,8 @@ npm run dev
     2. <span style="color:#aad">若返回一个渲染函数：则可以自定义渲染内容。（了解）</span>
 6. 注意点：
     1. 尽量不要与Vue2.x配置混用
-        - Vue2.x配置（data、methos、computed...）中<strong style="color:#DD5145">可以访问到</strong>setup中的属性、方法。
-        - 但在setup中<strong style="color:#DD5145">不能访问到</strong>Vue2.x配置（data、methos、computed...）。
+        - Vue2.x配置（data、methods、computed...）中<strong style="color:#DD5145">可以访问到</strong>setup中的属性、方法。
+        - 但在setup中<strong style="color:#DD5145">不能访问到</strong>Vue2.x配置（data、methods、computed...）。
         - 如果有重名, setup优先。
     2. setup不能是一个async函数，因为返回值不再是return的对象, 而是promise, 模板看不到return对象中的属性。（后期也可以返回一个Promise实例，但需要Suspense和异步组件的配合）
 
