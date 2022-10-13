@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teaching Notes/Vue10.md",
+            "file": "Vue/compositionapi.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teaching Notes/Vue10.md",
+                "file": "Vue/compositionapi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teaching Notes/Vue10.md",
+                "file": "Vue/compositionapi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teaching Notes/Vue10.md"
+                "file": "Vue/compositionapi.md"
               }
             }
           }
@@ -132,15 +132,15 @@
   },
   "active": "cb8efdf650c606b6",
   "lastOpenFiles": [
+    "Vue/vue3.md",
+    "Vue/images/Pasted image 20221012182707.png",
+    "Vue/compositionapi.md",
+    "Teaching Notes/Vue10.md",
     "Teaching Notes/Vue11.md",
     "Teaching Notes/Vue13.md",
-    "Vue/compositionapi.md",
     "Teaching Notes/ES5 5.md",
-    "Teaching Notes/Vue10.md",
     "Web Front End/Javascript catalogue/Js作用域.md",
     "Web Front End/Javascript catalogue/Js正则表达式.md",
-    "Web Front End/Javascript catalogue/Js基本语法.md",
-    "Web Front End/Javascript catalogue/Js函数.md",
-    "Web Front End/Javascript catalogue/Js条件语句.md"
+    "Web Front End/Javascript catalogue/Js基本语法.md"
   ]
 }
