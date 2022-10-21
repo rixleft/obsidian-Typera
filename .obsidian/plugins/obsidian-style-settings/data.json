@@ -3,6 +3,7 @@
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-chocolate-topaz",
   "blue-topaz-theme@@background-settings-workplace-background-image": true,
   "blue-topaz-theme@@background-image-settings-switch": true,
-  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-sea-and-sky",
-  "blue-topaz-theme@@line-width-readable": 60
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-four-seasons",
+  "blue-topaz-theme@@line-width-readable": 60,
+  "blue-topaz-theme@@simple-titlebar": true
 }
