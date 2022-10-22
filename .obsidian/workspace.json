@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teaching Notes/26.第二十七天（js）.md",
-                "mode": "source",
+                "file": "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unshift",
+                "query": "just",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teaching Notes/26.第二十七天（js）.md",
+                "file": "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teaching Notes/26.第二十七天（js）.md",
+                "file": "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teaching Notes/26.第二十七天（js）.md"
+                "file": "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md"
               }
             }
           }
@@ -144,15 +144,15 @@
   },
   "active": "cb8efdf650c606b6",
   "lastOpenFiles": [
+    "Teaching Notes/20.第二十二天.md",
+    "Teaching Notes/17.第十九天.md",
+    "Teaching Notes/7.第八天.md",
+    "Web Front End/css catalogue/盒子模型.md",
+    "Web Front End/css catalogue/text.md",
     "Teaching Notes/28.第二十九天（js）.md",
+    "Teaching Notes/ES5 7.md",
+    "Teaching Notes/ES5 1.md",
     "Teaching Notes/27.第二十八天（js）.md",
-    "Web Front End/Javascript catalogue/Js条件语句.md",
-    "Teaching Notes/微信小程序1.md",
-    "Teaching Notes/23.第二十四天（js）.md",
-    "Teaching Notes/22.第二十三天（js）.md",
-    "Teaching Notes/36.第三十七天（js进阶）.md",
-    "Teaching Notes/35.第三十六天（js进阶）.md",
-    "Web Front End/css catalogue/伪元素选择器.md",
-    "Web Front End/html catalogue/规范.md"
+    "Teaching Notes/26.第二十七天（js）.md"
   ]
 }
