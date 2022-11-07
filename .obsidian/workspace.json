@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Front End/html catalogue/html标签.md",
+                "file": "Teaching Notes/12.第十三天.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "opacity",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Front End/html catalogue/html标签.md",
+                "file": "Teaching Notes/12.第十三天.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Front End/html catalogue/html标签.md",
+                "file": "Teaching Notes/12.第十三天.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Front End/html catalogue/html标签.md"
+                "file": "Teaching Notes/12.第十三天.md"
               }
             }
           }
@@ -140,15 +141,15 @@
   },
   "active": "cb8efdf650c606b6",
   "lastOpenFiles": [
-    "Web Front End/html catalogue/form.md",
-    "Web Front End/html catalogue/行内元素.md",
-    "Web Front End/html catalogue/图片标签.md",
-    "Web Front End/html catalogue/特殊字符.md",
-    "Web Front End/html catalogue/块级元素.md",
-    "Teaching Notes/8.第九天.md",
-    "Teaching Notes/5.第六天.md",
-    "Teaching Notes/ES5 4.md",
-    "Teaching Notes/35.第三十六天（js进阶）.md",
-    "Vue/项目代码和笔记/04-首页模块-main主体.md"
+    "Teaching Notes/React 第四天.md",
+    "Web Front End/css catalogue/栅格系统.md",
+    "Teaching Notes/19.第二十一天.md",
+    "Web Front End/css catalogue/@media.md",
+    "Teaching Notes/20.第二十二天.md",
+    "Vue/后台管理系统/电商管理后台 API 接口文档.md",
+    "Web Front End/css catalogue/双飞翼布局、圣杯布局.md",
+    "Teaching Notes/7.第八天.md",
+    "Vue/项目代码和笔记/03-首页模块-Layout骨架.md",
+    "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md"
   ]
 }
