@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Front End/css catalogue/position.md",
+                "file": "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "居中",
+                "query": "BFC",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Front End/css catalogue/position.md",
+                "file": "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Front End/css catalogue/position.md",
+                "file": "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Front End/css catalogue/position.md"
+                "file": "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md"
               }
             }
           }
@@ -141,15 +141,15 @@
   },
   "active": "cb8efdf650c606b6",
   "lastOpenFiles": [
+    "Web Front End/css catalogue/BFC.md",
+    "Vue/项目代码和笔记/03-首页模块-Layout骨架.md",
+    "Web Front End/css catalogue/position.md",
     "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
     "Web Front End/html catalogue/行内元素.md",
     "Teaching Notes/工程化2.md",
     "Teaching Notes/12.第十三天.md",
     "Teaching Notes/8.第九天.md",
     "Teaching Notes/5.第六天.md",
-    "Teaching Notes/3.第四天.md",
-    "Vue/项目代码和笔记/04-首页模块-main主体.md",
-    "Teaching Notes/2.第三天.md",
-    "Teaching Notes/设计模式2.md"
+    "Teaching Notes/3.第四天.md"
   ]
 }

@@ -106,7 +106,7 @@ IFC（Inline Formatting Contexts）直译为"内联格式化上下文"，IFC 的
 	-  `flex-end`：右对齐
 	-  `center`： 居中
 	-  `space-between`：两端对齐，项目之间的间隔都相等。
-	- `space-around`：每个子盒子两侧的间隔相等。所以，子盒子之间的间隔是边框间隔的两倍。
+	-  `space-around`：每个子盒子两侧的间隔相等。所以，子盒子之间的间隔是边框间隔的两倍。
 	- ![[justify-content.png]]
 - `align-items`属性定义项目在侧轴上如何对齐。
 	-  `flex-start`：侧轴的起点对齐，侧轴如果是Y轴则是从上方对齐，侧轴如果是X轴则是从左侧对齐。
@@ -119,7 +119,7 @@ IFC（Inline Formatting Contexts）直译为"内联格式化上下文"，IFC 的
 	-  `flex-end`：与侧轴的终点对齐。
 	-  `center`：与侧轴的中点对齐。
 	-  `space-between`：如果主轴是X轴，则将每行的子元素平均间隔，两端对齐无间隔。
-	- `space-around`：如果主轴是X轴，则将每行的子元素平均两倍间隔，两端有单倍间隔，相当于`padding`的效果。
+	-  `space-around`：如果主轴是X轴，则将每行的子元素平均两倍间隔，两端有单倍间隔，相当于`padding`的效果。
 	- `space-evenly`：如果主轴是X轴，则将每行的子元素平均间隔，两端同样有相等的间隔。
 
 ==注意：FFC布局中，float、clear、vertical-align属性不会生效。==
