@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八股文.md",
+                "file": "Web Front End/Javascript catalogue/Js基本语法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "死区",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八股文.md",
+                "file": "Web Front End/Javascript catalogue/Js基本语法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八股文.md",
+                "file": "Web Front End/Javascript catalogue/Js基本语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八股文.md"
+                "file": "Web Front End/Javascript catalogue/Js基本语法.md"
               }
             }
           }
@@ -154,15 +154,15 @@
   },
   "active": "9e66d6c3b17bc041",
   "lastOpenFiles": [
+    "Web Front End/Javascript catalogue/Js数组和对象.md",
+    "Web Front End/Javascript catalogue/Js文档对象模型.md",
+    "Teaching Notes/Ajax 3.md",
+    "Teaching Notes/ES5 7.md",
+    "Teaching Notes/36.第三十七天（js进阶）.md",
+    "Teaching Notes/35.第三十六天（js进阶）.md",
+    "300+编程实用工具.md",
+    "Teaching Notes/25.第二十六天（js）.md",
     "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
-    "八股文.md",
-    "Web Front End/css catalogue/BFC.md",
-    "Vue/项目代码和笔记/03-首页模块-Layout骨架.md",
-    "Web Front End/css catalogue/position.md",
-    "Web Front End/html catalogue/行内元素.md",
-    "Teaching Notes/工程化2.md",
-    "Teaching Notes/12.第十三天.md",
-    "Teaching Notes/8.第九天.md",
-    "Teaching Notes/5.第六天.md"
+    "八股文.md"
   ]
 }
