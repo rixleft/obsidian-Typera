@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Front End/Javascript catalogue/Js基本语法.md",
+                "file": "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "IFC",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Front End/Javascript catalogue/Js基本语法.md",
+                "file": "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Front End/Javascript catalogue/Js基本语法.md",
+                "file": "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Front End/Javascript catalogue/Js基本语法.md"
+                "file": "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md"
               }
             }
           }
@@ -152,8 +152,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e66d6c3b17bc041",
+  "active": "33e67007bc693415",
   "lastOpenFiles": [
+    "Web Front End/Javascript catalogue/Js基本语法.md",
     "Web Front End/Javascript catalogue/Js数组和对象.md",
     "Web Front End/Javascript catalogue/Js文档对象模型.md",
     "Teaching Notes/Ajax 3.md",
@@ -162,7 +163,6 @@
     "Teaching Notes/35.第三十六天（js进阶）.md",
     "300+编程实用工具.md",
     "Teaching Notes/25.第二十六天（js）.md",
-    "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
-    "八股文.md"
+    "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md"
   ]
 }

@@ -65,7 +65,7 @@ display:block;
 
 3.position为absolute或fixed；
 
-4.display为inline-block。table-cell，table-caption，table-caption，flex；
+4.display为inline-block。table-cell，table-caption，flex；
 
 5.overflow为hidden scroll auto。
 
