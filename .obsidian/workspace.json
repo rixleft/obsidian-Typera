@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IFC",
+                "query": "BFC",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,8 +152,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33e67007bc693415",
+  "active": "9e66d6c3b17bc041",
   "lastOpenFiles": [
+    "Teaching Notes/React 第一天.md",
+    "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
     "Web Front End/Javascript catalogue/Js基本语法.md",
     "Web Front End/Javascript catalogue/Js数组和对象.md",
     "Web Front End/Javascript catalogue/Js文档对象模型.md",
@@ -161,8 +163,6 @@
     "Teaching Notes/ES5 7.md",
     "Teaching Notes/36.第三十七天（js进阶）.md",
     "Teaching Notes/35.第三十六天（js进阶）.md",
-    "300+编程实用工具.md",
-    "Teaching Notes/25.第二十六天（js）.md",
-    "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md"
+    "300+编程实用工具.md"
   ]
 }
