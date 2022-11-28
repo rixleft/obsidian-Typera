@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teaching Notes/ES5 6.md",
+                "file": "八股文1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "微任务",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teaching Notes/ES5 6.md",
+                "file": "八股文1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teaching Notes/ES5 6.md",
+                "file": "八股文1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teaching Notes/ES5 6.md"
+                "file": "八股文1.md"
               }
             }
           }
@@ -154,6 +153,7 @@
   },
   "active": "33e67007bc693415",
   "lastOpenFiles": [
+    "Teaching Notes/ES5 6.md",
     "八股文1.md",
     "Vue/项目代码和笔记/03-首页模块-Layout骨架.md",
     "八股文.md",
@@ -162,7 +162,6 @@
     "Web Front End/Javascript catalogue/Js基本语法.md",
     "Web Front End/Javascript catalogue/Js数组和对象.md",
     "Web Front End/Javascript catalogue/Js文档对象模型.md",
-    "Teaching Notes/Ajax 3.md",
-    "Teaching Notes/ES5 7.md"
+    "Teaching Notes/Ajax 3.md"
   ]
 }
