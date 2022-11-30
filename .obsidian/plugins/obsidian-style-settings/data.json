@@ -4,6 +4,9 @@
   "blue-topaz-theme@@background-settings-workplace-background-image": true,
   "blue-topaz-theme@@background-image-settings-switch": true,
   "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-four-seasons",
-  "blue-topaz-theme@@line-width-readable": 60,
-  "blue-topaz-theme@@simple-titlebar": true
+  "blue-topaz-theme@@line-width-readable": 70,
+  "blue-topaz-theme@@simple-titlebar": true,
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@bt-status-off": true,
+  "blue-topaz-theme@@scrollbar-style-option": "default-scrollbar"
 }
