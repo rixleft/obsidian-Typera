@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八股文1.md",
+                "file": "Web Front End/css catalogue/position.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "居中",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八股文1.md",
+                "file": "Web Front End/css catalogue/position.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八股文1.md",
+                "file": "Web Front End/css catalogue/position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八股文1.md"
+                "file": "Web Front End/css catalogue/position.md"
               }
             }
           }
@@ -153,15 +154,15 @@
   },
   "active": "33e67007bc693415",
   "lastOpenFiles": [
-    "八股文.md",
+    "Teaching Notes/8.第九天.md",
     "八股文1.md",
+    "八股文.md",
     "300+编程实用工具.md",
     "Teaching Notes/ES5 6.md",
     "Vue/项目代码和笔记/03-首页模块-Layout骨架.md",
     "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
     "Teaching Notes/React 第一天.md",
     "Web Front End/Javascript catalogue/Js基本语法.md",
-    "Web Front End/Javascript catalogue/Js数组和对象.md",
-    "Web Front End/Javascript catalogue/Js文档对象模型.md"
+    "Web Front End/Javascript catalogue/Js数组和对象.md"
   ]
 }
