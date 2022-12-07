@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue双向绑定.md",
+                "file": "八股文1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue双向绑定.md",
+                "file": "八股文1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue双向绑定.md",
+                "file": "八股文1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue双向绑定.md"
+                "file": "八股文1.md"
               }
             }
           }
@@ -149,20 +149,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "9c49ac92893bab88",
+  "active": "f58db00966662605",
   "lastOpenFiles": [
-    "八股文1.md",
     "八股文.md",
+    "八股文1.md",
+    "vue双向绑定.md",
     "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
     "Web Front End/css catalogue/盒子模型.md",
     "Web Front End/css catalogue/position.md",
     "Vue/项目代码和笔记/00-vue3入门.md",
     "300+编程实用工具.md",
     "Web Front End/css catalogue/未命名.md",
-    "Teaching Notes/8.第九天.md",
-    "Teaching Notes/ES5 6.md"
+    "Teaching Notes/8.第九天.md"
   ]
 }
