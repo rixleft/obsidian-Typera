@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f58db00966662605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue双向绑定.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八股文1.md",
+                "file": "vue双向绑定.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八股文1.md",
+                "file": "vue双向绑定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八股文1.md"
+                "file": "vue双向绑定.md"
               }
             }
           }
@@ -135,12 +149,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "3788c81844c594b2",
+  "active": "9c49ac92893bab88",
   "lastOpenFiles": [
-    "八股文.md",
     "八股文1.md",
+    "八股文.md",
     "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
     "Web Front End/css catalogue/盒子模型.md",
     "Web Front End/css catalogue/position.md",
