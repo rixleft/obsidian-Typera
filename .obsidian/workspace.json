@@ -135,11 +135,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "3788c81844c594b2",
   "lastOpenFiles": [
+    "八股文.md",
+    "八股文1.md",
     "Web Front End/css catalogue/BFC、IFC、FFC、GFC.md",
     "Web Front End/css catalogue/盒子模型.md",
     "Web Front End/css catalogue/position.md",
@@ -147,8 +148,6 @@
     "300+编程实用工具.md",
     "Web Front End/css catalogue/未命名.md",
     "Teaching Notes/8.第九天.md",
-    "八股文1.md",
-    "八股文.md",
     "Teaching Notes/ES5 6.md"
   ]
 }
